@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @lrwham
 - 👀 I’m interested in computer science education.
-- 🌱 I’m currently learning C#.
+- 🌱 I’m currently learning Rust.
+- 🧑‍💻 I feel most comfortable with Java, C#, and Python
 - 💡 I primarily use Python and Scratch for educating middle school aged students.
 - 🏗️ For personal projects, I frequently use Python, CircuitPython, C/C++, and Java.
 - 💞️ I’m looking to collaborate on coding challenges and lessons for beginning students in 7th and 8th grade.
